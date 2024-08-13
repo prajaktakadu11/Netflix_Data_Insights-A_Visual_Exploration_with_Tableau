@@ -1,5 +1,7 @@
 # Project Title: Netflix Data Insights: A Visual Exploration with Tableau
 
+[Tableau Dashboard](https://public.tableau.com/shared/6SJDKPK5K?:display_count=n&:origin=viz_share_link)
+
 # Table of content
 - Introduction
 - Objective
@@ -24,4 +26,6 @@ The primary objective of this project is to extract, clean, and analyze data fro
 - Data Export: The cleaned and formatted data was then exported from Excel and connected to Tableau for further analysis.
 
 # Data Visualizations:
-![Netflix Dashboard]
+![Netflix Dashboard](https://github.com/prajaktakadu11/Netflix_Data_Insights-A_Visual_Exploration_with_Tableau/blob/main/Netflix%20Dashboard.png?raw=true)
+
+
