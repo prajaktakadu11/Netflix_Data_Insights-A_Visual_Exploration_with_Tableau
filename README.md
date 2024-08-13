@@ -1,6 +1,6 @@
 # Project Title: Netflix Data Insights: A Visual Exploration with Tableau
 
-[Tableau Dashboard](https://public.tableau.com/shared/6SJDKPK5K?:display_count=n&:origin=viz_share_link)
+[Netflix Data Analysis Dashboard](https://public.tableau.com/shared/6SJDKPK5K?:display_count=n&:origin=viz_share_link)
 
 # Table of content
 - Introduction
